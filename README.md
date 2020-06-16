@@ -1,2 +1,2 @@
 # adv-it-edu
-ADV-IT education
+Repository to make tasks with ADV-IT Python lessons.
